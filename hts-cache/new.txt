@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:49:50	5043/5043	---M--	200	added ('OK')	text/html	etag:%22693ac8bb-13b3%22	https://dc.crsorgi.gov.in/crs/verifyCertificate?id=lVhWtKos5g1lG9XUT6J4vw%3D%3D	C:/My%20Web%20Sites/CC/dc.crsorgi.gov.in/crs/verifyCertificate0c44.html	(from )
+00:49:50	247/247	---M--	200	added ('OK')	text/html		https://dc.crsorgi.gov.in/robots.txt		(from )
